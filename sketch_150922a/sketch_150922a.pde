@@ -1,3 +1,4 @@
+\\Jerson Wade, Francisco Duran, Mauren Bastos
 int longitudCanvas = 300;
 int targetX = int(random(1, longitudCanvas-1));
 int targetY = int(random(1, longitudCanvas-1));
